@@ -6,7 +6,6 @@ const Login = () => {
 
   const handleLogin = (e) => {
     e.preventDefault();
-    // TODO: Tambahkan logika autentikasi di sini
     console.log("Login submitted");
   };
 
